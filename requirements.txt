@@ -7,6 +7,6 @@ requests>=2.31.0
 
 #(Optional)
 
-sqlite3  # (Built-in with Python, no need to install separately)
 scikit-learn>=1.3.0  # Only if you trained/retrain your model
+
 
